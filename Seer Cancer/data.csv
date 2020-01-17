@@ -1,0 +1,122 @@
+Race/Ethnicity,Sex,Age At Diagnosis,Rate
+White,Male,<1,25.2051
+White,Male,4-Jan,24.1658
+White,Male,9-May,14.5183
+White,Male,14-Oct,15.1368
+White,Male,15-19,24.9887
+White,Male,20-24,38.5327
+White,Male,25-29,53.8585
+White,Male,30-34,69.981
+White,Male,35-39,94.7548
+White,Male,40-44,150.8475
+White,Male,45-49,275.6661
+White,Male,50-54,527.8477
+White,Male,55-59,902.0665
+White,Male,60-64,1405.7821
+White,Male,65-69,2080.0622
+White,Male,70-74,2572.7515
+White,Male,75-79,2951.0298
+White,Male,80-84,3092.6757
+White,Male,85+,3049.6655
+White,Female,<1,23.4161
+White,Female,4-Jan,22.0564
+White,Female,9-May,11.9826
+White,Female,14-Oct,13.9877
+White,Female,15-19,22.769
+White,Female,20-24,41.2489
+White,Female,25-29,71.3275
+White,Female,30-34,119.8029
+White,Female,35-39,185.5951
+White,Female,40-44,295.9537
+White,Female,45-49,441.695
+White,Female,50-54,601.13
+White,Female,55-59,780.9417
+White,Female,60-64,1043.9696
+White,Female,65-69,1395.4971
+White,Female,70-74,1665.3913
+White,Female,75-79,1905.8188
+White,Female,80-84,2005.095
+White,Female,85+,1878.1193
+Black,Male,<1,19.8632
+Black,Male,4-Jan,17.1346
+Black,Male,9-May,9.803
+Black,Male,14-Oct,12.2938
+Black,Male,15-19,15.0815
+Black,Male,20-24,21.4962
+Black,Male,25-29,33.1565
+Black,Male,30-34,51.5234
+Black,Male,35-39,78.256
+Black,Male,40-44,155.8856
+Black,Male,45-49,330.7748
+Black,Male,50-54,695.151
+Black,Male,55-59,1253.1009
+Black,Male,60-64,1911.4197
+Black,Male,65-69,2595.6536
+Black,Male,70-74,2856.9465
+Black,Male,75-79,2972.1086
+Black,Male,80-84,2989.0009
+Black,Male,85+,2732.7049
+Black,Female,<1,19.469
+Black,Female,4-Jan,15.7868
+Black,Female,9-May,10.5206
+Black,Female,14-Oct,10.9048
+Black,Female,15-19,14.6263
+Black,Female,20-24,24.1902
+Black,Female,25-29,50.0191
+Black,Female,30-34,93.521
+Black,Female,35-39,155.8525
+Black,Female,40-44,264.1348
+Black,Female,45-49,405.071
+Black,Female,50-54,595.5793
+Black,Female,55-59,792.6972
+Black,Female,60-64,1073.3269
+Black,Female,65-69,1369.572
+Black,Female,70-74,1576.7729
+Black,Female,75-79,1779.4306
+Black,Female,80-84,1828.6878
+Black,Female,85+,1784.1468
+Asian/Pacific Islander,Male,<1,23.3421
+Asian/Pacific Islander,Male,4-Jan,19.1183
+Asian/Pacific Islander,Male,9-May,10.5489
+Asian/Pacific Islander,Male,14-Oct,11.2711
+Asian/Pacific Islander,Male,15-19,18.3394
+Asian/Pacific Islander,Male,20-24,21.6308
+Asian/Pacific Islander,Male,25-29,28.6449
+Asian/Pacific Islander,Male,30-34,42.0477
+Asian/Pacific Islander,Male,35-39,58.8488
+Asian/Pacific Islander,Male,40-44,96.839
+Asian/Pacific Islander,Male,45-49,163.7626
+Asian/Pacific Islander,Male,50-54,305.571
+Asian/Pacific Islander,Male,55-59,507.8638
+Asian/Pacific Islander,Male,60-64,801.4174
+Asian/Pacific Islander,Male,65-69,1262.5918
+Asian/Pacific Islander,Male,70-74,1589.9271
+Asian/Pacific Islander,Male,75-79,1916.7887
+Asian/Pacific Islander,Male,80-84,2133.4164
+Asian/Pacific Islander,Male,85+,2153.0807
+Asian/Pacific Islander,Female,<1,22.5288
+Asian/Pacific Islander,Female,4-Jan,16.096
+Asian/Pacific Islander,Female,9-May,9.0592
+Asian/Pacific Islander,Female,14-Oct,9.8811
+Asian/Pacific Islander,Female,15-19,17.159
+Asian/Pacific Islander,Female,20-24,26.1373
+Asian/Pacific Islander,Female,25-29,44.1248
+Asian/Pacific Islander,Female,30-34,82.3606
+Asian/Pacific Islander,Female,35-39,145.4523
+Asian/Pacific Islander,Female,40-44,243.8494
+Asian/Pacific Islander,Female,45-49,362.6181
+Asian/Pacific Islander,Female,50-54,469.3525
+Asian/Pacific Islander,Female,55-59,563.6299
+Asian/Pacific Islander,Female,60-64,698.5255
+Asian/Pacific Islander,Female,65-69,887.386
+Asian/Pacific Islander,Female,70-74,1048.0051
+Asian/Pacific Islander,Female,75-79,1187.9774
+Asian/Pacific Islander,Female,80-84,1351.2913
+Asian/Pacific Islander,Female,85+,1389.9426
+,,,
+,,,
+Cancer sites include invasive cases only unless otherwise noted.,,,
+,,,
+"Rates are per 100,000.",,,
+,,,
+"Incidence source: SEER 18 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey and Georgia excluding ATL/RG).",,,
